@@ -11,7 +11,7 @@ Build the following component to the best of your ability. Use whatever styling 
 
 ![Component to Replicate](https://github.com/berge-business/code_assessment-react_card_component_mui/blob/master/assets/component.png?raw=true)
 
-This is a live component on our Pirvacy Center Dashboard. Once final code is pushed, it will be compared to our production component for grading.
+This is a live component on our Privacy Center Dashboard.
 
 
 ### Subtasks
@@ -34,4 +34,4 @@ This is a live component on our Pirvacy Center Dashboard. Once final code is pus
 
 Please clone this repo and complete the task. Once finished, zip the src folder and send to hunter.berge@getabine.com.
 
-Spend as long as you need to complete this task. 
+Spend around 60 minutes completing this task - if you do not complete the task, or it takes longer than 60 minutes, that is ok. If that is the case, in your email, please include either how much extra time you needed or a brief description on the items not you did not complete.
