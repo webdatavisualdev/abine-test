@@ -1,7 +1,7 @@
 
 # Abine Code Assessment
 
-A brief assessment to show off your development and styling skills using ReactJS, Next.js, and Material UI.
+A brief assessment to show off your development and styling skills using ReactJS and Material UI.
 
 
 
