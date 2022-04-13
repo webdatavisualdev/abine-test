@@ -1,0 +1,74 @@
+.SystemCard {
+  max-width: 400px;
+  border-radius: 16px;
+  box-shadow: 0px 0px 10px 5px rgb(0, 0, 0, 0.1);
+  overflow: visible;
+}
+
+.SystemCardContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.SystemCardTitle {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #002d8b;
+  margin-top: 10px;
+}
+
+.SystemCardDescription {
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 300;
+}
+
+.SystemCardDescription span {
+  color: #3280ae;
+}
+
+.IndexButtonContainer {
+  margin-top: -36px;
+}
+
+.IconButtonsContainer {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  grid-gap: 30px;
+  margin-top: -36px;
+}
+
+.SystemCard:hover .IndexButtonContainer {
+  display: none;
+}
+
+.SystemCard:hover .IconButtonsContainer {
+  display: flex;
+}
+
+.BtnIcon {
+  background-color: #002d8b;
+  color: white;
+  width: 40px;
+  height: 40px;
+}
+
+.BtnIcon:hover {
+  background-color: rgb(0, 45, 139, 0.7);
+}
+
+.BtnAdd {
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+  color: #002d8b;
+  font-size: 18px;
+  text-transform: capitalize;
+  width: 100px;
+}
+
+.BtnAdd svg {
+  margin-left: 5px;
+}
